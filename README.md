@@ -11,7 +11,7 @@ Thank you for visiting! Se yaa space cowboy 🤠✨
 ## Stats
 <table border="0">
   <tr>
-    <td><a href="#"><img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" alt="Snake Animation"></a></td>
+    <a href="#"><img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" alt="Snake Animation"></a>
   </tr>
   <tr>
     <td><a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gma27892&theme=tokyonight"></a></td>
