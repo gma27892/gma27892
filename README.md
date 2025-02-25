@@ -10,7 +10,6 @@ Thank you for visiting! Se yaa space cowboy 🤠✨
 
 ---
 <img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg"/>
-![](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 ---
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gma27892&theme=tokyonight)
