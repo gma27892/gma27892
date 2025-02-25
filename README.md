@@ -7,6 +7,7 @@ My name is Gian Marco, and this is my personal GitHub profile where I share my p
 Feel free to explore and use all of 'em.
 
 Thank you for visiting! Se yaa space cowboy 🤠✨
+
 ---
 ![](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 ---
