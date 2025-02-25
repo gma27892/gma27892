@@ -9,8 +9,7 @@ Feel free to explore and use all of 'em.
 Thank you for visiting! Se yaa space cowboy 🤠✨
 
 ---
-<img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" alt="Snake Animation">
-
+<a href="#"><img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" alt="Snake Animation"></a>
 ---
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gma27892&theme=tokyonight)
